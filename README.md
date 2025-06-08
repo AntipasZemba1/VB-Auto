@@ -87,6 +87,8 @@ The VB Auto Center is a simple Windows Forms application developed in VB.NET tha
 - **Trade-in**: $2,000
 - **Accessories**: Stereo, Leather, Navigation
 - **Finish**: Custom
+
+  
 ![image](https://github.com/user-attachments/assets/2250752d-e0a0-495a-84ad-e0a5b73b3451)
 
 **Output:**
@@ -94,6 +96,8 @@ The VB Auto Center is a simple Windows Forms application developed in VB.NET tha
 - **Tax**: $2,300 (8% of $25,000 + $3,750)
 - **Subtotal**: $31,050
 - **Amount Due**: $29,050 (After $2,000 trade-in)
+
+  
 ![image](https://github.com/user-attachments/assets/5dcf2ff4-63c6-424f-8cf4-7091d27e1066)
 
 
